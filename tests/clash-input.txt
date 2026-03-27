@@ -1,0 +1,17 @@
+[AutoProxy 0.2.9]
+! Title: GFWList4LL
+!
+! HomePage: https://github.com/gfwlist/gfwlist
+
+google.com
+|http://google.com
+|https://google.com/
+|https://google.com/url
+|https://*.google.com.hk
+||google.com
+@@www.google.com
+@@|http://www.google.com
+@@||www.google.com
+
+/^https?:\/\/[^\/]+blogspot\.(.*)/
+@@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$

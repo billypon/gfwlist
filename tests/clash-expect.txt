@@ -1,0 +1,16 @@
+# [AutoProxy 0.2.9]
+# Title: GFWList4LL
+#
+# HomePage: https://github.com/gfwlist/gfwlist
+
+DOMAIN-KEYWORD,www.google.com,DIRECT
+DOMAIN,www.google.com,DIRECT
+DOMAIN-SUFFIX,www.google.com,DIRECT
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+DOMAIN-KEYWORD,google.com,PROXY
+DOMAIN,google.com,PROXY
+DOMAIN,google.com,PROXY
+DOMAIN,google.com,PROXY
+DOMAIN-SUFFIX,google.com.hk,PROXY
+DOMAIN-SUFFIX,google.com,PROXY
+DOMAIN-KEYWORD,blogspot.,PROXY

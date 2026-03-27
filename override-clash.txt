@@ -1,0 +1,3 @@
+/^https?:\/\/[^\/]+blogspot\.(.*)/ => DOMAIN-KEYWORD,blogspot.
+/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$ => DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+/^https?:\/\/(www|api)\.google\.com\.tw$ => DOMAIN,www.google.com.tw | DOMAIN,api.google.com.tw
