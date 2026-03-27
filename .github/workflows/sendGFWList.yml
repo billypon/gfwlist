@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y file git openssl perl
+          sudo apt-get install -y file git openssl perl python3
 
       - name: Sanity check.
         run: |
@@ -45,6 +45,7 @@ jobs:
       - name: convert to gfwlist.txt
         run: |
           openssl base64 -in list.txt | tr -d '\r' > gfwlist.txt
+          scripts/autoproxy2clash.py list.txt > gfwlist-clash.txt
 
       - name: Set up GPG keys (bocchi810)
         if: github.actor == 'bocchi810'
@@ -73,4 +74,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: gfwlist edited ${{ env.DATE }}
-          file_pattern: 'gfwlist.txt'
+          file_pattern: 'gfwlist*.txt'
