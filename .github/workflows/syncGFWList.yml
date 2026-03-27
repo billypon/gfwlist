@@ -1,0 +1,65 @@
+name: sync GFWList
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  merge-and-push:
+    runs-on: ubuntu-latest
+
+    env:
+      UPSTREAM_REPO: ${{ vars.UPSTREAM_REPO || 'https://github.com/gfwlist/gfwlist.git' }}
+      UPSTREAM_BRANCH: ${{ vars.UPSTREAM_BRANCH || 'master' }}
+      PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: '0'
+
+      - name: merge from upstream
+        run: |
+          git remote add upstream ${{ env.UPSTREAM_REPO }}
+          git fetch upstream
+
+          LOCAL_COMMIT=$(git rev-parse HEAD)
+          UPSTREAM_COMMIT=$(git rev-parse upstream/${{ env.UPSTREAM_BRANCH }})
+          [ "$LOCAL_COMMIT" = "$UPSTREAM_COMMIT" ] && exit 0
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if ! git merge upstream/${{ env.UPSTREAM_BRANCH }} --no-commit --no-ff; then
+            echo "::error:: Merge conflict detected!"
+            exit 1
+          fi
+
+          git rev-parse --verify MERGE_HEAD >/dev/null 2>&1 || exit 0
+
+          if git diff --cached --quiet; then
+            git merge --abort
+            exit 0
+          fi
+
+          if git diff --cached --name-only | grep -q '^list.txt$'; then
+            changed=true
+          fi
+
+          echo
+          git commit -m "gfwlist merged"
+          git push
+
+          [ "$changed" = true ] || exit 0
+          echo
+          echo "change occured"
+          [ -z "$PUSH_TOKEN" ] && exit 0
+          echo "dispatch workflow"
+          curl -sS \
+            -X POST \
+            -d '{"ref":"master"}' \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.PUSH_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/sendGFWList.yml/dispatches
