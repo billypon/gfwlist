@@ -46,6 +46,8 @@ jobs:
         run: |
           openssl base64 -in list.txt | tr -d '\r' > gfwlist.txt
           scripts/autoproxy2clash.py list.txt > gfwlist-clash.txt
+          scripts/convert-clash.py proxy gfwlist-clash.txt > gfwlist-clash-proxy.txt
+          scripts/convert-clash.py direct gfwlist-clash.txt > gfwlist-clash-direct.txt
 
       - name: Set up GPG keys (bocchi810)
         if: github.actor == 'bocchi810'
