@@ -26,11 +26,6 @@ def load_manual_rules(path):
     return rules
 
 
-def extract_domain(url):
-    m = re.match(r"https?://([^:/]+)", url)
-    return m.group(1) if m else None
-
-
 def parse_line(raw, manual_map):
     original = raw
     raw = raw.strip()
@@ -51,48 +46,54 @@ def parse_line(raw, manual_map):
     if raw.startswith("/") and raw.endswith("/"):
         return f"# [UNSUPPORTED] {original}"
 
-    # ||
-    if raw.startswith("||"):
-        domain = raw[2:]
-
-        if "^" in domain:
-            if domain.endswith("^"):
-                domain = domain[:-1]
-            else:
-                return f"# [UNSUPPORTED] {original}"
-
-        domain = domain.split("/")[0]
-        return f"DOMAIN-SUFFIX,{domain},{target}"
-
-    # |
-    if raw.startswith("|"):
-        domain = extract_domain(raw[1:])
-        if domain:
-            if domain.startswith("*."):
-                return f"DOMAIN-SUFFIX,{domain[2:]},{target}"
-            elif "*." not in domain:
-                return f"DOMAIN,{domain},{target}"
-        return f"# [UNSUPPORTED] {original}"
-
-    # wildcard
-    if "*" in raw:
-        if raw.startswith("*.") and "*" not in raw[2:]:
-            return f"DOMAIN-SUFFIX,{raw[2:]},{target}"
-        return f"# [UNSUPPORTED] {original}"
-
-    # path
-    if "/" in raw:
-        domain = extract_domain(raw[1:])
-        if domain:
-            return f"DOMAIN,{domain},{target}"
-        return f"# [UNSUPPORTED] {original}"
-
     # ^
     if "^" in raw:
         if raw.endswith("^"):
             raw = raw[:-1]
         else:
             return f"# [UNSUPPORTED] {original}"
+
+    # path
+    if "/" in raw:
+        m = re.match(r"^(\|*)(.+)", raw)
+        pre = m.group(1)
+        raw = m.group(2)
+        if "://" in raw:
+            raw = raw.split("://")[1]
+        if "/" in raw:
+            raw = raw.split("/")[0]
+        raw = f"{pre}{raw}"
+        if not raw:
+            return f"# [UNSUPPORTED] {original}"
+
+    # ||
+    if raw.startswith("||"):
+        raw = raw[2:]
+        if "*" not in raw:
+            return f"DOMAIN-SUFFIX,{raw},{target}"
+
+    # |
+    if raw.startswith("|"):
+        raw = raw[1:]
+        if "*" not in raw:
+            return f"DOMAIN,{raw},{target}"
+
+    # wildcard
+    if "*" in raw:
+        if raw.startswith("*"):
+            # *.example.com → suffix
+            if raw.startswith("*."):
+                value = raw[2:]
+                if "*" not in value and "." in value:
+                    return f"DOMAIN-SUFFIX,{value},{target}"
+
+            # *example* → keyword
+            if raw.endswith("*"):
+                keyword = raw[1:-1]
+                if "*" not in keyword:
+                    return f"DOMAIN-KEYWORD,{keyword},{target}"
+
+        return f"DOMAIN-WILDCARD,{raw},{target}"
 
     return f"DOMAIN-KEYWORD,{raw},{target}"
 

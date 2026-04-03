@@ -3,15 +3,20 @@
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 
-google.com
-|http://google.com
-|https://google.com/
-|https://google.com/url
-|https://*.google.com.hk
-||google.com
-@@www.google.com
-@@|http://www.google.com
-@@||www.google.com
+keyword.com
+|http://schema.com
+|https://schema-slash.com/
+|https://schema-path.com/url
+|https://*.schema-sub.com
+|*.sub.com
+|*prefix.com
+|suffix.com*
+|*wildcard.com*
+|wild*card.com
+||domain.com
+@@www.not-keyword.com
+@@|http://www.not-schema.com
+@@||www.not-domain.com
 
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 @@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$

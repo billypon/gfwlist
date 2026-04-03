@@ -3,14 +3,19 @@
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 
-DOMAIN-KEYWORD,www.google.com,DIRECT
-DOMAIN,www.google.com,DIRECT
-DOMAIN-SUFFIX,www.google.com,DIRECT
+DOMAIN-KEYWORD,www.not-keyword.com,DIRECT
+DOMAIN,www.not-schema.com,DIRECT
+DOMAIN-SUFFIX,www.not-domain.com,DIRECT
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
-DOMAIN-KEYWORD,google.com,PROXY
-DOMAIN,google.com,PROXY
-DOMAIN,google.com,PROXY
-DOMAIN,google.com,PROXY
-DOMAIN-SUFFIX,google.com.hk,PROXY
-DOMAIN-SUFFIX,google.com,PROXY
+DOMAIN-KEYWORD,keyword.com,PROXY
+DOMAIN,schema.com,PROXY
+DOMAIN,schema-slash.com,PROXY
+DOMAIN,schema-path.com,PROXY
+DOMAIN-SUFFIX,schema-sub.com,PROXY
+DOMAIN-SUFFIX,sub.com,PROXY
+DOMAIN-WILDCARD,*prefix.com,PROXY
+DOMAIN-WILDCARD,suffix.com*,PROXY
+DOMAIN-KEYWORD,wildcard.com,PROXY
+DOMAIN-WILDCARD,wild*card.com,PROXY
+DOMAIN-SUFFIX,domain.com,PROXY
 DOMAIN-KEYWORD,blogspot.,PROXY
