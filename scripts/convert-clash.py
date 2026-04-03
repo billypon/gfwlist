@@ -29,7 +29,7 @@ def convert_line(line: str, target):
             return value
 
     if rule_type == "DOMAIN-SUFFIX":
-        return f".{value}"
+        return f"+.{value}"
 
     return None
 
