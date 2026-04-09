@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: qDaUJaBOcXYDTR8qTyGVcg
+! Checksum: 1t99YhyjZHS8ra4KjIGTPw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 26 May 2025 12:04:31 +0000
+! Last Modified: Thu, 09 Apr 2026 04:25:44 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -211,7 +211,6 @@
 ||primevideo.com
 ||proyectoclubes.com
 ||pure18.com
-||pytorch.org
 ||qq.co.za
 ||r18.com
 |http://radiko.jp
@@ -693,6 +692,7 @@ www.aolnews.com
 ||duck.com
 ||feedburner.com
 ||firebaseio.com
+||crashlytics.com
 ||g.co
 ||gcr.io
 ||get.app
@@ -1194,6 +1194,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||archive-it.org
 ||aave.com
 ||arweave.org
 ||arena.ai
@@ -1758,6 +1759,9 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||dns.sb
+||doh.sb
+||dot.sb
 ||download.dappcdn.com
 ||dazn.com
 ||darmau.co
@@ -2681,6 +2685,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mistral.ai
 ||manus.im
 ||meee.com.tw
 ||mosavi.io
@@ -2728,7 +2733,6 @@ iipdigital.usembassy.gov
 ||mediachinese.com
 ||mediafreakcity.com
 ||medium.com
-||meetup.com
 ||mega.co.nz
 ||mega.io
 ||mega.nz
@@ -2945,6 +2949,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||osmand.net
 ||oklink.com
 ||okcoin.com
 ||opencritic.com
@@ -3218,7 +3223,6 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
-||s.rmimg.com
 ||radiojar.com
 ||radio.co
 ||rustdesk.com
@@ -4268,6 +4272,7 @@ iipdigital.usembassy.gov
 !###########Supplemental List Start#############
 !#############Supplemental List End#############
 !################Whitelist Start################
+@@||firebase-settings.crashlytics.com
 @@||cn.investing.com
 @@||www.typepad.com
 @@||static.typepad.com
@@ -4277,7 +4282,6 @@ iipdigital.usembassy.gov
 @@||g1.gstatic.com
 @@||g0.gstatic.com
 @@||checkin.gstatic.com
-@@||*.ipify.org
 @@||i.pki.goog
 @@||c.pki.goog
 @@||o.pki.goog

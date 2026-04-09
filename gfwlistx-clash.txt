@@ -4207,3 +4207,11 @@ DOMAIN-SUFFIX,zuobiao.me,PROXY
 DOMAIN-SUFFIX,zuola.com,PROXY
 DOMAIN-SUFFIX,zvereff.com,PROXY
 DOMAIN-SUFFIX,zyxel.com,PROXY
+DOMAIN-SUFFIX,aws.amazon.com,PROXY
+DOMAIN-SUFFIX,getmx.com,PROXY
+DOMAIN-SUFFIX,npmjs.com,PROXY
+DOMAIN-SUFFIX,fuyin.tv,PROXY
+DOMAIN-SUFFIX,goodtv.tv,PROXY
+DOMAIN-SUFFIX,zanmei.ai,PROXY
+DOMAIN,dqhxk7sbp7xog.cloudfront.net,PROXY
+DOMAIN,akamai-live.akamaized.net,PROXY
