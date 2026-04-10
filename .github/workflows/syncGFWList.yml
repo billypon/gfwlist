@@ -33,8 +33,18 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if ! git merge upstream/${{ env.UPSTREAM_BRANCH }} --no-commit --no-ff; then
-            echo "::error:: Merge conflict detected!"
-            exit 1
+            conflicts=$(git diff --name-only --diff-filter=U)
+            echo
+            echo "conflicts:"
+            echo "$conflicts"
+            echo
+            if [ "$conflicts" = "gfwlist.txt" ]; then
+              git checkout --theirs gfwlist.txt
+              git add gfwlist.txt
+            else
+              echo "::error:: Merge conflict detected!"
+              exit 1
+            fi
           fi
 
           git rev-parse --verify MERGE_HEAD >/dev/null 2>&1 || exit 0
