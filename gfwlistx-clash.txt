@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: 1t99YhyjZHS8ra4KjIGTPw
+# Checksum: yavn2o+QLlK/lJApiZNgqw
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Thu, 09 Apr 2026 04:25:44 +0000
+# Last Modified: Fri, 10 Apr 2026 05:40:09 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1169,6 +1169,9 @@ DOMAIN,99cn.info,PROXY
 DOMAIN-SUFFIX,9bis.com,PROXY
 DOMAIN-SUFFIX,9bis.net,PROXY
 DOMAIN-SUFFIX,9news.com.au,PROXY
+DOMAIN-SUFFIX,annas-archive.gd,PROXY
+DOMAIN-SUFFIX,annas-archive.gl,PROXY
+DOMAIN-SUFFIX,annas-archive.pk,PROXY
 DOMAIN-SUFFIX,archive-it.org,PROXY
 DOMAIN-SUFFIX,aave.com,PROXY
 DOMAIN-SUFFIX,arweave.org,PROXY
@@ -1186,13 +1189,8 @@ DOMAIN-SUFFIX,cdn.arstechnica.net,PROXY
 DOMAIN-SUFFIX,aomedia.org,PROXY
 DOMAIN-SUFFIX,aljazeera.com,PROXY
 DOMAIN-SUFFIX,akinator.com,PROXY
-DOMAIN-SUFFIX,annas-archive.org,PROXY
-DOMAIN-SUFFIX,annas-archive.in,PROXY
-DOMAIN-SUFFIX,annas-archive.li,PROXY
-DOMAIN-SUFFIX,annas-archive.pm,PROXY
 DOMAIN-SUFFIX,av01.tv,PROXY
 DOMAIN-SUFFIX,acg.rip,PROXY
-DOMAIN-SUFFIX,annas-archive.se,PROXY
 DOMAIN-SUFFIX,a-normal-day.com,PROXY
 DOMAIN,aamacau.com,PROXY
 DOMAIN-SUFFIX,abc.net.au,PROXY
@@ -3555,11 +3553,9 @@ DOMAIN-SUFFIX,tbcollege.org,PROXY
 DOMAIN-SUFFIX,tbsec.org,PROXY
 DOMAIN-SUFFIX,tbsn.org,PROXY
 DOMAIN,tbssqh.org,PROXY
-DOMAIN-SUFFIX,techspot.com,PROXY
 DOMAIN-SUFFIX,techviz.net,PROXY
 DOMAIN-SUFFIX,teck.in,PROXY
 DOMAIN-SUFFIX,tehrantimes.com,PROXY
-DOMAIN-SUFFIX,telegraph.co.uk,PROXY
 DOMAIN-SUFFIX,tenor.com,PROXY
 DOMAIN-SUFFIX,tenzinpalmo.com,PROXY
 DOMAIN-SUFFIX,tew.org,PROXY
