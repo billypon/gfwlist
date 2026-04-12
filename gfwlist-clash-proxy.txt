@@ -3721,6 +3721,7 @@ payload:
   - '+.blog.expofutures.com'
   - '+.contests.twilio.com'
   - '+.typora.io'
+  - '+.sbti.unun.dev'
   - '+.uniswap.org'
   - '+.up.audio'
   - '+.udomain.hk'
