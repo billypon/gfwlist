@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: 2YPCQHVwnTGc/ozlk3NH7g
+# Checksum: zhnv8Ppu5q8m0g76dtWi2g
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Fri, 17 Apr 2026 02:51:08 +0000
+# Last Modified: Thu, 23 Apr 2026 02:53:56 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -255,7 +255,6 @@ DOMAIN-WILDCARD,cdn*.search.xxx,PROXY
 DOMAIN-SUFFIX,shiksha.com,PROXY
 DOMAIN-SUFFIX,slacker.com,PROXY
 DOMAIN-SUFFIX,sm-miracle.com,PROXY
-DOMAIN-SUFFIX,soylentnews.org,PROXY
 DOMAIN-SUFFIX,spotify.com,PROXY
 DOMAIN-SUFFIX,spreadshirt.es,PROXY
 DOMAIN-SUFFIX,springboardplatform.com,PROXY
@@ -639,7 +638,7 @@ DOMAIN-SUFFIX,hongkong.fandom.com,PROXY
 DOMAIN-SUFFIX,ftchinese.com,PROXY
 DOMAIN-SUFFIX,google.dev,PROXY
 DOMAIN-SUFFIX,ai.studio,PROXY
-DOMAIN-SUFFIX,chromium.org,PROXY
+DOMAIN-SUFFIX,issues.chromium.org,PROXY
 DOMAIN-SUFFIX,goog,PROXY
 DOMAIN-SUFFIX,gle,PROXY
 DOMAIN-SUFFIX,google,PROXY
@@ -1161,6 +1160,7 @@ DOMAIN,99cn.info,PROXY
 DOMAIN-SUFFIX,9bis.com,PROXY
 DOMAIN-SUFFIX,9bis.net,PROXY
 DOMAIN-SUFFIX,9news.com.au,PROXY
+DOMAIN-SUFFIX,asiasociety.org,PROXY
 DOMAIN-SUFFIX,avistaz.to,PROXY
 DOMAIN-SUFFIX,annas-archive.gd,PROXY
 DOMAIN-SUFFIX,annas-archive.gl,PROXY
@@ -1327,6 +1327,7 @@ DOMAIN-SUFFIX,axios.com,PROXY
 DOMAIN-SUFFIX,axureformac.com,PROXY
 DOMAIN-SUFFIX,azirevpn.com,PROXY
 DOMAIN-WILDCARD,boxun*.azurewebsites.net,PROXY
+DOMAIN-SUFFIX,bellingcat.com,PROXY
 DOMAIN-SUFFIX,bittorrent.com,PROXY
 DOMAIN-SUFFIX,help.byspotify.com,PROXY
 DOMAIN-SUFFIX,bitbaby.com,PROXY
@@ -1836,6 +1837,7 @@ DOMAIN-SUFFIX,dwnews.com,PROXY
 DOMAIN-SUFFIX,dwnews.net,PROXY
 DOMAIN-SUFFIX,dynawebinc.com,PROXY
 DOMAIN-SUFFIX,dysfz.cc,PROXY
+DOMAIN-SUFFIX,app.element.io,PROXY
 DOMAIN-SUFFIX,economist.com,PROXY
 DOMAIN-SUFFIX,e621.net,PROXY
 DOMAIN-SUFFIX,edx-cdn.org,PROXY
@@ -2546,6 +2548,7 @@ DOMAIN-SUFFIX,kwongwah.com.my,PROXY
 DOMAIN-SUFFIX,kxsw.life,PROXY
 DOMAIN-SUFFIX,kzaobao.com,PROXY
 DOMAIN-SUFFIX,kzeng.info,PROXY
+DOMAIN-SUFFIX,lantern.io,PROXY
 DOMAIN-SUFFIX,lovart.ai,PROXY
 DOMAIN-SUFFIX,library-access.sk,PROXY
 DOMAIN-SUFFIX,linux.do,PROXY
@@ -3162,6 +3165,9 @@ DOMAIN-SUFFIX,qstatus.com,PROXY
 DOMAIN-SUFFIX,qtrac.eu,PROXY
 DOMAIN-SUFFIX,quitccp.org,PROXY
 DOMAIN,quran.com,PROXY
+DOMAIN-SUFFIX,rawstory.com,PROXY
+DOMAIN-SUFFIX,recordedfuture.com,PROXY
+DOMAIN-SUFFIX,roblox.com,PROXY
 DOMAIN-SUFFIX,radiojar.com,PROXY
 DOMAIN-SUFFIX,radio.co,PROXY
 DOMAIN-SUFFIX,rustdesk.com,PROXY
@@ -3484,6 +3490,7 @@ DOMAIN-SUFFIX,switchvpn.net,PROXY
 DOMAIN-SUFFIX,sydneytoday.com,PROXY
 DOMAIN-SUFFIX,sylfoundation.org,PROXY
 DOMAIN-SUFFIX,syncback.com,PROXY
+DOMAIN-SUFFIX,thinkchina.sg,PROXY
 DOMAIN-SUFFIX,tor.eff.org,PROXY
 DOMAIN-SUFFIX,tails.net,PROXY
 DOMAIN-SUFFIX,bbc.pdn.tritondigital.com,PROXY
