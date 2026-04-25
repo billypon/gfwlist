@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: zhnv8Ppu5q8m0g76dtWi2g
+# Checksum: L2BMWZgJ77X6xo/OJJDZGw
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Thu, 23 Apr 2026 02:53:56 +0000
+# Last Modified: Sat, 25 Apr 2026 02:44:05 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3490,6 +3490,7 @@ DOMAIN-SUFFIX,switchvpn.net,PROXY
 DOMAIN-SUFFIX,sydneytoday.com,PROXY
 DOMAIN-SUFFIX,sylfoundation.org,PROXY
 DOMAIN-SUFFIX,syncback.com,PROXY
+DOMAIN-SUFFIX,techbang.com,PROXY
 DOMAIN-SUFFIX,thinkchina.sg,PROXY
 DOMAIN-SUFFIX,tor.eff.org,PROXY
 DOMAIN-SUFFIX,tails.net,PROXY
