@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: L2BMWZgJ77X6xo/OJJDZGw
+! Checksum: noamI+VSfjN6vA8pzRvT+Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 25 Apr 2026 02:44:05 +0000
+! Last Modified: Wed, 29 Apr 2026 03:30:20 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3838,6 +3838,7 @@ iipdigital.usembassy.gov
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||upsangel.com
 ||sbti.unun.dev
 ||uniswap.org
 ||up.audio
