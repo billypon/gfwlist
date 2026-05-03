@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: noamI+VSfjN6vA8pzRvT+Q
+# Checksum: C4/Abb/+kdhay87tUubnjQ
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Wed, 29 Apr 2026 03:30:20 +0000
+# Last Modified: Sun, 03 May 2026 03:33:43 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3256,6 +3256,7 @@ DOMAIN-SUFFIX,ruten.com.tw,PROXY
 DOMAIN-SUFFIX,rutracker.net,PROXY
 DOMAIN-SUFFIX,rutracker.org,PROXY
 DOMAIN,rxhj.net,PROXY
+DOMAIN-SUFFIX,softether.co.jp,PROXY
 DOMAIN-SUFFIX,shitjournal.org,PROXY
 DOMAIN-SUFFIX,spacex.com,PROXY
 DOMAIN-SUFFIX,stephaniered.com,PROXY
