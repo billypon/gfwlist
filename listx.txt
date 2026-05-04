@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: C4/Abb/+kdhay87tUubnjQ
+! Checksum: SXZdE7a4BjjrWse25ypQxw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 03 May 2026 03:33:43 +0000
+! Last Modified: Mon, 04 May 2026 03:32:04 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -437,10 +437,6 @@
 ||uraban.me
 ||vrsmash.com
 ||vultryhw.com
-||scache.vzw.com
-||scache1.vzw.com
-||scache2.vzw.com
-||ss7.vzw.com
 ||ssr.tools
 ||steemit.com
 ||taiwanjustice.net
