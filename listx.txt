@@ -4299,6 +4299,7 @@ iipdigital.usembassy.gov
 ||aws.amazon.com
 ||getmx.com
 ||npmjs.com
+||xunlei8.cc
 !----- separate line -----
 ||fuyin.tv
 ||goodtv.tv
