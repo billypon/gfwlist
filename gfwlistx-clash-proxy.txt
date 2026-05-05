@@ -4137,6 +4137,7 @@ payload:
   - '+.aws.amazon.com'
   - '+.getmx.com'
   - '+.npmjs.com'
+  - '+.xunlei8.cc'
   - '+.fuyin.tv'
   - '+.goodtv.tv'
   - '+.zanmei.ai'
