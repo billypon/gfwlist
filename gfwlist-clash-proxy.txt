@@ -2847,6 +2847,7 @@ payload:
   - '+.nyaa.si'
   - '+.nybooks.com'
   - '+.nypost.com'
+  - '+.umap.openstreetmap.fr'
   - '+.overdrive.com'
   - '+.openart.ai'
   - '+.osmand.net'

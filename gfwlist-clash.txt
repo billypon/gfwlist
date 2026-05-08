@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: dckqsXiVHQVsPo+lh3jgSg
+# Checksum: SV3hLW16g1QE98fB61XqoA
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Thu, 07 May 2026 03:29:28 +0000
+# Last Modified: Fri, 08 May 2026 03:25:49 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2908,6 +2908,7 @@ DOMAIN,nyaa.eu,PROXY
 DOMAIN-SUFFIX,nyaa.si,PROXY
 DOMAIN-SUFFIX,nybooks.com,PROXY
 DOMAIN-SUFFIX,nypost.com,PROXY
+DOMAIN-SUFFIX,umap.openstreetmap.fr,PROXY
 DOMAIN-SUFFIX,overdrive.com,PROXY
 DOMAIN-SUFFIX,openart.ai,PROXY
 DOMAIN-SUFFIX,osmand.net,PROXY
