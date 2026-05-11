@@ -1661,6 +1661,8 @@ payload:
   - '+.ifan.cz.cc'
   - '+.mike.cz.cc'
   - '+.nic.cz.cc'
+  - '+.data18.com'
+  - '+.dt18.com'
   - '+.dns.sb'
   - '+.doh.sb'
   - '+.dot.sb'
