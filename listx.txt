@@ -4334,6 +4334,7 @@ iipdigital.usembassy.gov
 !----- separate line -----
 ||fuyin.tv
 ||goodtv.tv
+||wedevote.com
 ||zanmei.ai
 !----- separate line -----
 !--- goodtv ---
