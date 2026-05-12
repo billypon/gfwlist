@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: wJCZYgxuFPfBOC83Rj2nog
+# Checksum: MlySJqrjNm3b1GhySvhJ8Q
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Mon, 11 May 2026 03:50:19 +0000
+# Last Modified: Tue, 12 May 2026 14:11:12 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4235,6 +4235,7 @@ DOMAIN-SUFFIX,npmjs.com,PROXY
 DOMAIN-SUFFIX,xunlei8.cc,PROXY
 DOMAIN-SUFFIX,fuyin.tv,PROXY
 DOMAIN-SUFFIX,goodtv.tv,PROXY
+DOMAIN-SUFFIX,wedevote.com,PROXY
 DOMAIN-SUFFIX,zanmei.ai,PROXY
 DOMAIN,dqhxk7sbp7xog.cloudfront.net,PROXY
 DOMAIN,akamai-live.akamaized.net,PROXY

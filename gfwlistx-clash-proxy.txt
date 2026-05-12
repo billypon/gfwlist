@@ -4171,6 +4171,7 @@ payload:
   - '+.xunlei8.cc'
   - '+.fuyin.tv'
   - '+.goodtv.tv'
+  - '+.wedevote.com'
   - '+.zanmei.ai'
   - 'dqhxk7sbp7xog.cloudfront.net'
   - 'akamai-live.akamaized.net'
