@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: 2HqLZbmdDpZjUzHA//N50Q
+# Checksum: o3xg8mtpATHa+fosMXEMnA
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Mon, 18 May 2026 03:58:22 +0000
+# Last Modified: Thu, 21 May 2026 04:01:34 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2074,6 +2074,8 @@ DOMAIN-SUFFIX,furinkan.com,PROXY
 DOMAIN-SUFFIX,futuremessage.org,PROXY
 DOMAIN-SUFFIX,fw.cm,PROXY
 DOMAIN-SUFFIX,fxcm-chinese.com,PROXY
+DOMAIN-SUFFIX,f95zone.to,PROXY
+DOMAIN-SUFFIX,g.ai,PROXY
 DOMAIN-SUFFIX,gmgn.ai,PROXY
 DOMAIN-SUFFIX,grokipedia.com,PROXY
 DOMAIN-SUFFIX,gfwbao.com,PROXY
@@ -2644,6 +2646,7 @@ DOMAIN-SUFFIX,lvv2.com,PROXY
 DOMAIN,lyfhk.net,PROXY
 DOMAIN-SUFFIX,lzjscript.com,PROXY
 DOMAIN-SUFFIX,lzmtnews.org,PROXY
+DOMAIN-SUFFIX,leonardo.ai,PROXY
 DOMAIN-SUFFIX,mjj.today,PROXY
 DOMAIN-SUFFIX,mediamatters.org,PROXY
 DOMAIN-SUFFIX,mistral.ai,PROXY
@@ -3277,6 +3280,8 @@ DOMAIN-SUFFIX,ruten.com.tw,PROXY
 DOMAIN-SUFFIX,rutracker.net,PROXY
 DOMAIN-SUFFIX,rutracker.org,PROXY
 DOMAIN,rxhj.net,PROXY
+DOMAIN-SUFFIX,raphael.app,PROXY
+DOMAIN-SUFFIX,rule34.us,PROXY
 DOMAIN-SUFFIX,sider.ai,PROXY
 DOMAIN-SUFFIX,sinchew.com.my,PROXY
 DOMAIN-SUFFIX,softether.co.jp,PROXY
@@ -3514,6 +3519,7 @@ DOMAIN-SUFFIX,switchvpn.net,PROXY
 DOMAIN-SUFFIX,sydneytoday.com,PROXY
 DOMAIN-SUFFIX,sylfoundation.org,PROXY
 DOMAIN-SUFFIX,syncback.com,PROXY
+DOMAIN-SUFFIX,sotwe.com,PROXY
 DOMAIN-SUFFIX,tvdy1.com,PROXY
 DOMAIN-SUFFIX,tgstat.com,PROXY
 DOMAIN-SUFFIX,the-sun.com,PROXY
