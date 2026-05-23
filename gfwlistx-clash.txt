@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: o3xg8mtpATHa+fosMXEMnA
+# Checksum: wYQPq1gi3c0/yLGswCqtzA
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Thu, 21 May 2026 04:01:34 +0000
+# Last Modified: Sat, 23 May 2026 03:33:47 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1088,6 +1088,7 @@ DOMAIN-SUFFIX,search.yahoo.co.jp,PROXY
 DOMAIN-SUFFIX,yahoo.com.tw,PROXY
 DOMAIN-SUFFIX,yahoo.com.hk,PROXY
 DOMAIN-SUFFIX,yahoo.com,PROXY
+DOMAIN-SUFFIX,24hbook.com,PROXY
 DOMAIN-SUFFIX,996.icu,PROXY
 DOMAIN-SUFFIX,ipfs.4everland.io,PROXY
 DOMAIN-SUFFIX,91dasai.com,PROXY
@@ -2647,6 +2648,7 @@ DOMAIN,lyfhk.net,PROXY
 DOMAIN-SUFFIX,lzjscript.com,PROXY
 DOMAIN-SUFFIX,lzmtnews.org,PROXY
 DOMAIN-SUFFIX,leonardo.ai,PROXY
+DOMAIN-SUFFIX,mas.to,PROXY
 DOMAIN-SUFFIX,mjj.today,PROXY
 DOMAIN-SUFFIX,mediamatters.org,PROXY
 DOMAIN-SUFFIX,mistral.ai,PROXY
@@ -2807,6 +2809,7 @@ DOMAIN-SUFFIX,mymoe.moe,PROXY
 DOMAIN-SUFFIX,myparagliding.com,PROXY
 DOMAIN-SUFFIX,mypopescu.com,PROXY
 DOMAIN-SUFFIX,myspacecdn.com,PROXY
+DOMAIN-SUFFIX,neodb.social,PROXY
 DOMAIN-SUFFIX,nfscofficial.com,PROXY
 DOMAIN-SUFFIX,nfsc.press,PROXY
 DOMAIN-SUFFIX,newstimes.com,PROXY
