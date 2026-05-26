@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: wYQPq1gi3c0/yLGswCqtzA
+# Checksum: D7CNWKJOwIqqzMJ1yVNXoA
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Sat, 23 May 2026 03:33:47 +0000
+# Last Modified: Tue, 26 May 2026 03:52:22 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2785,6 +2785,7 @@ DOMAIN-SUFFIX,morningsun.org,PROXY
 DOMAIN,motherless.com,PROXY
 DOMAIN-SUFFIX,movements.org,PROXY
 DOMAIN-SUFFIX,moviefap.com,PROXY
+DOMAIN-SUFFIX,mozilla.ai,PROXY
 DOMAIN-SUFFIX,www.moztw.org,PROXY
 DOMAIN-SUFFIX,mpettis.com,PROXY
 DOMAIN-SUFFIX,mpfinance.com,PROXY
