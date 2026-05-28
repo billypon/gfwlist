@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: D7CNWKJOwIqqzMJ1yVNXoA
+# Checksum: ePKi+Ry/BB76iT2O7qcSMQ
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Tue, 26 May 2026 03:52:22 +0000
+# Last Modified: Thu, 28 May 2026 03:54:32 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1815,6 +1815,7 @@ DOMAIN-SUFFIX,doublethinklab.org,PROXY
 DOMAIN-SUFFIX,dougscripts.com,PROXY
 DOMAIN-SUFFIX,doujincafe.com,PROXY
 DOMAIN,bartender.dowjones.com,PROXY
+DOMAIN-SUFFIX,dowjones.io,PROXY
 DOMAIN-SUFFIX,dpp.org.tw,PROXY
 DOMAIN-SUFFIX,dpr.info,PROXY
 DOMAIN-SUFFIX,dragonsprings.org,PROXY

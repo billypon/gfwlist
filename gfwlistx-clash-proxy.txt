@@ -1755,6 +1755,7 @@ payload:
   - '+.dougscripts.com'
   - '+.doujincafe.com'
   - 'bartender.dowjones.com'
+  - '+.dowjones.io'
   - '+.dpp.org.tw'
   - '+.dpr.info'
   - '+.dragonsprings.org'
