@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: ePKi+Ry/BB76iT2O7qcSMQ
+# Checksum: NUTfDeBvzy6dvFM6Y/QDhA
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Thu, 28 May 2026 03:54:32 +0000
+# Last Modified: Fri, 29 May 2026 03:56:12 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -397,7 +397,6 @@ DOMAIN-SUFFIX,lihkg.com,PROXY
 DOMAIN-SUFFIX,line-scdn.net,PROXY
 DOMAIN-SUFFIX,i.lithium.com,PROXY
 DOMAIN-SUFFIX,cloud.mail.ru,PROXY
-DOMAIN-SUFFIX,cdn-images.mailchimp.com,PROXY
 DOMAIN-SUFFIX,mastodon.cloud,PROXY
 DOMAIN-SUFFIX,mastodon.host,PROXY
 DOMAIN-SUFFIX,mastodon.social,PROXY
@@ -1490,7 +1489,6 @@ DOMAIN-SUFFIX,bwh1.net,PROXY
 DOMAIN-SUFFIX,bypasscensorship.org,PROXY
 DOMAIN-SUFFIX,chonglangtv.org,PROXY
 DOMAIN-SUFFIX,ctinsider.com,PROXY
-DOMAIN-SUFFIX,cnbc.com,PROXY
 DOMAIN-SUFFIX,cia.gov,PROXY
 DOMAIN-SUFFIX,claude.com,PROXY
 DOMAIN-SUFFIX,www.clashverge.dev,PROXY
@@ -3431,7 +3429,6 @@ DOMAIN-SUFFIX,socks-proxy.net,PROXY
 DOMAIN-SUFFIX,sockslist.net,PROXY
 DOMAIN,socrec.org,PROXY
 DOMAIN-SUFFIX,softether.org,PROXY
-DOMAIN-SUFFIX,softether-download.com,PROXY
 DOMAIN-SUFFIX,cdn.softlayer.net,PROXY
 DOMAIN-SUFFIX,sogclub.com,PROXY
 DOMAIN-SUFFIX,sohcradio.com,PROXY
@@ -4170,7 +4167,6 @@ DOMAIN-SUFFIX,yespornplease.com,PROXY
 DOMAIN,yeyeclub.com,PROXY
 DOMAIN-SUFFIX,yhcw.net,PROXY
 DOMAIN-SUFFIX,yibaochina.com,PROXY
-DOMAIN-SUFFIX,yidio.com,PROXY
 DOMAIN-SUFFIX,s.yimg.com,PROXY
 DOMAIN-SUFFIX,yipub.com,PROXY
 DOMAIN-SUFFIX,yizhihongxing.com,PROXY
@@ -4243,3 +4239,7 @@ DOMAIN-SUFFIX,zuobiao.me,PROXY
 DOMAIN-SUFFIX,zuola.com,PROXY
 DOMAIN-SUFFIX,zvereff.com,PROXY
 DOMAIN-SUFFIX,zyxel.com,PROXY
+DOMAIN-SUFFIX,veed.io,PROXY
+DOMAIN-SUFFIX,gencraft.com,PROXY
+DOMAIN-SUFFIX,hiddify.com,PROXY
+DOMAIN-SUFFIX,as.mr,PROXY
