@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: NUTfDeBvzy6dvFM6Y/QDhA
+# Checksum: 3BLaUot3oHQUpCa0gTe6AQ
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Fri, 29 May 2026 03:56:12 +0000
+# Last Modified: Sat, 30 May 2026 03:41:15 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1295,6 +1295,7 @@ DOMAIN-SUFFIX,arctosia.com,PROXY
 DOMAIN-SUFFIX,areca-backup.org,PROXY
 DOMAIN-SUFFIX,arethusa.su,PROXY
 DOMAIN-SUFFIX,arlingtoncemetery.mil,PROXY
+DOMAIN-SUFFIX,as.mr,PROXY
 DOMAIN-SUFFIX,asacp.org,PROXY
 DOMAIN-SUFFIX,asiaharvest.org,PROXY
 DOMAIN-SUFFIX,asianage.com,PROXY
@@ -1364,6 +1365,7 @@ DOMAIN-SUFFIX,bandcamp.com,PROXY
 DOMAIN-SUFFIX,bandwagonhost.com,PROXY
 DOMAIN,bangchen.net,PROXY
 DOMAIN-SUFFIX,bangkokpost.com,PROXY
+DOMAIN-SUFFIX,bangumi.tv,PROXY
 DOMAIN-SUFFIX,bangyoulater.com,PROXY
 DOMAIN-SUFFIX,bannedbook.org,PROXY
 DOMAIN,baramangaonline.com,PROXY
@@ -1394,6 +1396,7 @@ DOMAIN-SUFFIX,bettween.com,PROXY
 DOMAIN-SUFFIX,betvictor.com,PROXY
 DOMAIN-SUFFIX,bfnn.org,PROXY
 DOMAIN-SUFFIX,bfsh.hk,PROXY
+DOMAIN-SUFFIX,bgm.tv,PROXY
 DOMAIN-SUFFIX,bgvpn.com,PROXY
 DOMAIN-SUFFIX,biblesforamerica.org,PROXY
 DOMAIN-SUFFIX,vpl.bibliocommons.com,PROXY
@@ -1590,6 +1593,7 @@ DOMAIN-SUFFIX,chenpokong.com,PROXY
 DOMAIN-SUFFIX,chenpokongvip.com,PROXY
 DOMAIN-SUFFIX,cherrysave.com,PROXY
 DOMAIN-SUFFIX,chhongbi.org,PROXY
+DOMAIN-SUFFIX,chii.in,PROXY
 DOMAIN-SUFFIX,china-week.com,PROXY
 DOMAIN-SUFFIX,china101.com,PROXY
 DOMAIN-SUFFIX,china18.org,PROXY
@@ -2116,6 +2120,7 @@ DOMAIN,gcpnews.com,PROXY
 DOMAIN-SUFFIX,geek-art.net,PROXY
 DOMAIN-SUFFIX,gekikame.com,PROXY
 DOMAIN,gelbooru.com,PROXY
+DOMAIN-SUFFIX,gencraft.com,PROXY
 DOMAIN-SUFFIX,generated.photos,PROXY
 DOMAIN-SUFFIX,genius.com,PROXY
 DOMAIN-SUFFIX,geph.io,PROXY
@@ -2256,6 +2261,7 @@ DOMAIN-SUFFIX,hexxeh.net,PROXY
 DOMAIN-SUFFIX,heyuedi.com,PROXY
 DOMAIN-SUFFIX,hiccears.com,PROXY
 DOMAIN-SUFFIX,hidden-advent.org,PROXY
+DOMAIN-SUFFIX,hiddify.com,PROXY
 DOMAIN-SUFFIX,hide.me,PROXY
 DOMAIN-SUFFIX,hideipvpn.com,PROXY
 DOMAIN-SUFFIX,hideman.net,PROXY
@@ -3888,6 +3894,7 @@ DOMAIN-SUFFIX,vox.com,PROXY
 DOMAIN-SUFFIX,vimeocdn.com,PROXY
 DOMAIN-SUFFIX,vpsxb.net,PROXY
 DOMAIN-SUFFIX,vilanet.me,PROXY
+DOMAIN-SUFFIX,veed.io,PROXY
 DOMAIN-SUFFIX,vewas.net,PROXY
 DOMAIN-SUFFIX,v2.help,PROXY
 DOMAIN-SUFFIX,vocaroo.com,PROXY
