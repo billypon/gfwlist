@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: 3BLaUot3oHQUpCa0gTe6AQ
+# Checksum: /mphp5bQEaIpdhgqbvupOA
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Sat, 30 May 2026 03:41:15 +0000
+# Last Modified: Sat, 06 Jun 2026 03:46:29 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -592,7 +592,6 @@ DOMAIN-SUFFIX,bloomberg.com,PROXY
 DOMAIN-SUFFIX,bloomberg.de,PROXY
 DOMAIN-SUFFIX,bloombergview.com,PROXY
 DOMAIN-SUFFIX,cloudflarestatus.com,PROXY
-DOMAIN-SUFFIX,pages.dev,PROXY
 DOMAIN-SUFFIX,workers.dev,PROXY
 DOMAIN-SUFFIX,one.one.one.one,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
@@ -3521,6 +3520,7 @@ DOMAIN-SUFFIX,surfeasy.com,PROXY
 DOMAIN,surfeasy.com.au,PROXY
 DOMAIN-SUFFIX,surfshark.com,PROXY
 DOMAIN-SUFFIX,surrenderat20.net,PROXY
+DOMAIN-SUFFIX,suyingtv.com,PROXY
 DOMAIN-SUFFIX,swissinfo.ch,PROXY
 DOMAIN-SUFFIX,swissvpn.net,PROXY
 DOMAIN-SUFFIX,switchvpn.net,PROXY
@@ -4090,6 +4090,7 @@ DOMAIN-SUFFIX,sujiatun.wordpress.com,PROXY
 DOMAIN-SUFFIX,xijie.wordpress.com,PROXY
 DOMAIN-SUFFIX,ifreechina.wordpress.com,PROXY
 DOMAIN-SUFFIX,wp.com,PROXY
+DOMAIN-SUFFIX,wplace.live,PROXY
 DOMAIN-SUFFIX,wowporn.com,PROXY
 DOMAIN-SUFFIX,wowgirls.com,PROXY
 DOMAIN,woyaolian.org,PROXY

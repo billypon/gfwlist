@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3BLaUot3oHQUpCa0gTe6AQ
+! Checksum: /mphp5bQEaIpdhgqbvupOA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 30 May 2026 03:41:15 +0000
+! Last Modified: Sat, 06 Jun 2026 03:46:29 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -578,7 +578,6 @@ www.aolnews.com
 ||bloombergview.com
 !!--Cloudflare--
 ||cloudflarestatus.com
-||pages.dev
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
@@ -3572,6 +3571,7 @@ iipdigital.usembassy.gov
 |http://surfeasy.com.au
 ||surfshark.com
 ||surrenderat20.net
+||suyingtv.com
 ||swissinfo.ch
 ||swissvpn.net
 ||switchvpn.net
@@ -4148,6 +4148,7 @@ iipdigital.usembassy.gov
 ||xijie.wordpress.com
 ||ifreechina.wordpress.com
 ||wp.com
+||wplace.live
 ||wowporn.com
 ||wowgirls.com
 |http://woyaolian.org
