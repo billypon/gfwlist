@@ -4353,6 +4353,7 @@ iipdigital.usembassy.gov
 ||getmx.com
 ||npmjs.com
 ||xunlei8.cc
+||xl720.com
 !----- separate line -----
 ||fuyin.tv
 ||goodtv.tv
