@@ -4188,6 +4188,7 @@ payload:
   - '+.getmx.com'
   - '+.npmjs.com'
   - '+.xunlei8.cc'
+  - '+.xl720.com'
   - '+.fuyin.tv'
   - '+.goodtv.tv'
   - '+.wedevote.com'
