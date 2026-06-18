@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: zndsFx591kkAnLAFSJveSw
+# Checksum: cX5KiTIUvfgeDvdORc5hZg
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Mon, 15 Jun 2026 02:08:19 +0000
+# Last Modified: Thu, 18 Jun 2026 04:16:12 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3408,6 +3408,7 @@ DOMAIN-SUFFIX,sinoca.com,PROXY
 DOMAIN-SUFFIX,sinocast.com,PROXY
 DOMAIN-SUFFIX,sinoants.com,PROXY
 DOMAIN-SUFFIX,sinoinsider.com,PROXY
+DOMAIN-SUFFIX,sinyalee.com,PROXY
 DOMAIN-SUFFIX,sis001.com,PROXY
 DOMAIN-SUFFIX,sitekreator.com,PROXY
 DOMAIN-SUFFIX,sitemaps.org,PROXY
