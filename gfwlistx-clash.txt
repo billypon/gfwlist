@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: cX5KiTIUvfgeDvdORc5hZg
+# Checksum: WqcHhe3lr4yjquO7IZo6lg
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Thu, 18 Jun 2026 04:16:12 +0000
+# Last Modified: Fri, 19 Jun 2026 04:44:11 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -338,6 +338,7 @@ DOMAIN-SUFFIX,xn--oiq.cc,PROXY
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,PROXY
 DOMAIN-SUFFIX,xn--9pr62r24a.com,PROXY
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
+DOMAIN-SUFFIX,xn--vuqv2cf7wzyig79c.com,PROXY
 DOMAIN-SUFFIX,music.amazon.com,PROXY
 DOMAIN-SUFFIX,cdn-images.mailchimp.com,PROXY
 DOMAIN-SUFFIX,abebooks.com,PROXY
@@ -561,6 +562,91 @@ DOMAIN-SUFFIX,tronscan.org,PROXY
 DOMAIN-SUFFIX,xbtce.com,PROXY
 DOMAIN-SUFFIX,yobit.net,PROXY
 DOMAIN-SUFFIX,zb.com,PROXY
+DOMAIN-SUFFIX,futuhk.com,PROXY
+DOMAIN-SUFFIX,futu.link,PROXY
+DOMAIN-SUFFIX,futunn.com,PROXY
+DOMAIN-SUFFIX,futuhn.com,PROXY
+DOMAIN-SUFFIX,futu.com,PROXY
+DOMAIN-SUFFIX,futu0.com,PROXY
+DOMAIN-SUFFIX,futu1.com,PROXY
+DOMAIN-SUFFIX,futu2.com,PROXY
+DOMAIN-SUFFIX,futu3.com,PROXY
+DOMAIN-SUFFIX,futu4.com,PROXY
+DOMAIN-SUFFIX,futu5.com,PROXY
+DOMAIN-SUFFIX,futu6.com,PROXY
+DOMAIN-SUFFIX,futu7.com,PROXY
+DOMAIN-SUFFIX,futu8.com,PROXY
+DOMAIN-SUFFIX,futu9.com,PROXY
+DOMAIN-SUFFIX,futuinc.com,PROXY
+DOMAIN-SUFFIX,futuniuniu.com,PROXY
+DOMAIN-SUFFIX,futu.cn,PROXY
+DOMAIN-SUFFIX,futufin.com,PROXY
+DOMAIN-SUFFIX,futuhk2.com,PROXY
+DOMAIN-SUFFIX,futuholdings.com,PROXY
+DOMAIN-SUFFIX,futuesop.com,PROXY
+DOMAIN-SUFFIX,futubull.cn,PROXY
+DOMAIN-SUFFIX,futuchain.com,PROXY
+DOMAIN-SUFFIX,moomoo.com,PROXY
+DOMAIN-SUFFIX,lbctrl.com,PROXY
+DOMAIN-SUFFIX,lbkrs.com,PROXY
+DOMAIN-SUFFIX,wbrks.com,PROXY
+DOMAIN-SUFFIX,longportapp.cn,PROXY
+DOMAIN-SUFFIX,longportapp.com,PROXY
+DOMAIN-SUFFIX,longbridgeapp.com,PROXY
+DOMAIN-SUFFIX,longbridge.hk,PROXY
+DOMAIN-SUFFIX,longbridgehk.com,PROXY
+DOMAIN-SUFFIX,longbridge.com,PROXY
+DOMAIN-SUFFIX,longbridge.global,PROXY
+DOMAIN-SUFFIX,itiger.com,PROXY
+DOMAIN-SUFFIX,itigerup.com,PROXY
+DOMAIN-SUFFIX,laohu8.com,PROXY
+DOMAIN-SUFFIX,tigerbbs.cn,PROXY
+DOMAIN-SUFFIX,tigerbbs.com,PROXY
+DOMAIN-SUFFIX,tigerfintech.com,PROXY
+DOMAIN-SUFFIX,tradeup.com,PROXY
+DOMAIN-SUFFIX,xiaohu8.com,PROXY
+DOMAIN-SUFFIX,zhijianfengyi.cn,PROXY
+DOMAIN-SUFFIX,zhijianfengyi.com,PROXY
+DOMAIN-SUFFIX,schwab.com,PROXY
+DOMAIN-SUFFIX,schwab.com.cn,PROXY
+DOMAIN-SUFFIX,schwab.com.hk,PROXY
+DOMAIN-SUFFIX,schwab.co.uk,PROXY
+DOMAIN-SUFFIX,futustatic.com,PROXY
+DOMAIN-SUFFIX,futuau.com,PROXY
+DOMAIN-SUFFIX,futuhkapp.com,PROXY
+DOMAIN-SUFFIX,fututrade.com,PROXY
+DOMAIN-SUFFIX,fututrustee.com,PROXY
+DOMAIN-SUFFIX,cdn.futustatic.com,PROXY
+DOMAIN-SUFFIX,api.moomoobull.com,PROXY
+DOMAIN-SUFFIX,moomooequity.com,PROXY
+DOMAIN-SUFFIX,moomootrustee.com,PROXY
+DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com,PROXY
+DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com,PROXY
+DOMAIN-SUFFIX,shortconn.im.qcloud.com,PROXY
+DOMAIN-SUFFIX,api.lbkrs.com,PROXY
+DOMAIN-SUFFIX,api-gl.lbkrs.com,PROXY
+DOMAIN-SUFFIX,longbridge.cloud,PROXY
+DOMAIN-SUFFIX,longbridge.sg,PROXY
+DOMAIN-SUFFIX,tigerbrokers.com,PROXY
+DOMAIN-SUFFIX,tigerbrokers.net,PROXY
+DOMAIN-SUFFIX,tigerbrokers.nz,PROXY
+DOMAIN-SUFFIX,quote.longbridge.global,PROXY
+DOMAIN-SUFFIX,trade.longportapp.com,PROXY
+DOMAIN-SUFFIX,openapi.longbridge.com,PROXY
+DOMAIN-SUFFIX,openapi-quote.longbridge.com,PROXY
+DOMAIN-SUFFIX,openapi-trade.longbridge.com,PROXY
+DOMAIN-SUFFIX,openapi.longbridge.cn,PROXY
+DOMAIN-SUFFIX,openapi-quote.longbridge.cn,PROXY
+DOMAIN-SUFFIX,openapi-trade.longbridge.cn,PROXY
+DOMAIN-SUFFIX,cg.play-analytics.com,PROXY
+DOMAIN-SUFFIX,qtcard.futunn.com,PROXY
+DOMAIN-SUFFIX,qtcardfthk.futufin.com,PROXY
+DOMAIN-SUFFIX,openapi.futunn.com,PROXY
+DOMAIN-SUFFIX,api.futunn.com,PROXY
+DOMAIN-SUFFIX,api5.futunn.com,PROXY
+DOMAIN-SUFFIX,trade.futunn.com,PROXY
+DOMAIN-SUFFIX,support.futunn.com,PROXY
+DOMAIN-SUFFIX,download.futunn.com,PROXY
 DOMAIN-SUFFIX,read01.com,PROXY
 DOMAIN-SUFFIX,kknews.cc,PROXY
 DOMAIN-SUFFIX,china-mmm.net,PROXY
@@ -1156,6 +1242,7 @@ DOMAIN,99cn.info,PROXY
 DOMAIN-SUFFIX,9bis.com,PROXY
 DOMAIN-SUFFIX,9bis.net,PROXY
 DOMAIN-SUFFIX,9news.com.au,PROXY
+DOMAIN-SUFFIX,accountboy.com,PROXY
 DOMAIN-SUFFIX,acg.mn,PROXY
 DOMAIN-SUFFIX,asiasociety.org,PROXY
 DOMAIN-SUFFIX,avistaz.to,PROXY
@@ -2348,7 +2435,6 @@ DOMAIN-SUFFIX,investing.com,PROXY
 DOMAIN-SUFFIX,idcflare.com,PROXY
 DOMAIN-SUFFIX,interseclab.org,PROXY
 DOMAIN-SUFFIX,ipify.org,PROXY
-DOMAIN-SUFFIX,itiger.com,PROXY
 DOMAIN-SUFFIX,itch.io,PROXY
 DOMAIN-SUFFIX,infura.io,PROXY
 DOMAIN-SUFFIX,president.ir,PROXY
