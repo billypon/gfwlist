@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: WqcHhe3lr4yjquO7IZo6lg
+# Checksum: my3I/MT7kLsKq5GN3bZdeg
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Fri, 19 Jun 2026 04:44:11 +0000
+# Last Modified: Sat, 20 Jun 2026 03:58:23 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1172,6 +1172,7 @@ DOMAIN-SUFFIX,search.yahoo.co.jp,PROXY
 DOMAIN-SUFFIX,yahoo.com.tw,PROXY
 DOMAIN-SUFFIX,yahoo.com.hk,PROXY
 DOMAIN-SUFFIX,yahoo.com,PROXY
+DOMAIN-SUFFIX,18mh.net,PROXY
 DOMAIN-SUFFIX,24hbook.com,PROXY
 DOMAIN-SUFFIX,996.icu,PROXY
 DOMAIN-SUFFIX,ipfs.4everland.io,PROXY
@@ -1412,6 +1413,7 @@ DOMAIN-SUFFIX,axios.com,PROXY
 DOMAIN-SUFFIX,axureformac.com,PROXY
 DOMAIN-SUFFIX,azirevpn.com,PROXY
 DOMAIN-WILDCARD,boxun*.azurewebsites.net,PROXY
+DOMAIN-SUFFIX,bilinovel.com,PROXY
 DOMAIN-SUFFIX,boomplay.com,PROXY
 DOMAIN-SUFFIX,bleepingcomputer.com,PROXY
 DOMAIN-SUFFIX,bellingcat.com,PROXY
