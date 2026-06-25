@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: my3I/MT7kLsKq5GN3bZdeg
+# Checksum: 0WaAFAcvjCU1hhBCLsSg2g
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Sat, 20 Jun 2026 03:58:23 +0000
+# Last Modified: Thu, 25 Jun 2026 03:52:49 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,fnac.com,PROXY
 DOMAIN-SUFFIX,funkyimg.com,PROXY
 DOMAIN-SUFFIX,fxnetworks.com,PROXY
 DOMAIN-SUFFIX,g-area.org,PROXY
+DOMAIN-SUFFIX,get.dappcdn.com,PROXY
 DOMAIN-SUFFIX,gettyimages.ca,PROXY
 DOMAIN-SUFFIX,gettyimages.us,PROXY
 DOMAIN-SUFFIX,gettyimages.hk,PROXY
