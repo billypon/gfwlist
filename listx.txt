@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: EsRwdJ9ALUUq87Xn8iZqhQ
+! Checksum: BSHckY/OLpJklmBN3MfJUg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Jul 2026 03:32:34 +0000
+! Last Modified: Fri, 18 Sep 2026 01:04:30 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1202,6 +1202,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||18comic.vip
 ||18mh.net
 ||24hbook.com
 ||996.icu
