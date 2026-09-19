@@ -22,7 +22,12 @@
 ### 🔒 匿名提交方式
 为了最大程度保护您的隐私，**请勿**将报告邮件发送到维护者的个人邮箱。您可以通过以下加密邮箱直接向我们发送报告（发送时请将 `#` 替换为 `@`）：
 
-* 📧 `gfwlistreport#proton.me`（发送给 [bocchi810](https://github.com/bocchi810)）
+* 📧 `bocchi810#hotmail.com`（发送给 [bocchi810](https://github.com/bocchi810)）(注意⚠️，不是outlook.com，是hotmail.com！旧proton邮箱已经被废弃！)  
+> ⚠️ 请使用OpenPGP**加密**后（以--BEGIN PGP MESSAGE--首行开头，或者将文字加密为asc或gpg附件）发送，否则会**直接被规则永久删除**，公钥为`9A105A8EF10A30C8EFB874E0F775BAF6BE7A9527`，可从`hkps://keyserver.ubuntu.com`获取  
+> ⚠️ 以及把自己的公钥上传到服务器！
+> ⚠️ 另外，邮件标题请留空（虽然不会被判定并删除，但最好别写任何文字），标题可以写在加密后的正文里！
+> 如果不知道怎么发请问人工智能！
+
 * 📧 `gfw#dyi.ng`（发送给 [cicku](https://github.com/cicku)， 同时转发给bocchi810）
 
 > ⚠️ **说明：** GFWList 不会对已提交的 URL 提供实时更新。为了确保列表质量，我们通常会在将其正式添加到列表之前进行全面的可用性测试。
@@ -38,7 +43,7 @@
 * **Cloudflare (testingcf):** `https://testingcf.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt`
 * **Fastly:** `https://fastly.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt`
 
-### 🔄 官方镜像源
+### 🔄 官方镜像源 (以下镜像可能出现不同步或者是境内外均访问缓慢的情况，不推荐)
 * **Repo.or.cz:** [http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt](http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt)
 * **GitLab:** [https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt](https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt)
 
