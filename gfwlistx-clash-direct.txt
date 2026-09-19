@@ -1,8 +1,8 @@
 payload:
   - '+.xn--ngstr-lra8j.com'
   - '+.www.gov.tw'
+  - '+.tokenplus.app'
   - '+.firebase-settings.crashlytics.com'
-  - '+.cn.investing.com'
   - '+.www.typepad.com'
   - '+.static.typepad.com'
   - '+.ci.android.com'
