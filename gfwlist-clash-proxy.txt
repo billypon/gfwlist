@@ -2860,6 +2860,7 @@ payload:
   - '+.myparagliding.com'
   - '+.mypopescu.com'
   - '+.myspacecdn.com'
+  - '+.note.com'
   - '+.nthlink.com'
   - '+.neodb.social'
   - '+.nfscofficial.com'

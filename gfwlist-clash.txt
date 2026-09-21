@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: 5syjA61lgzMAW/l5IdhnGA
+# Checksum: wdq6n06lDWnSYExRdCmxag
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Sat, 19 Sep 2026 03:48:47 +0000
+# Last Modified: Mon, 21 Sep 2026 04:02:31 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2920,6 +2920,7 @@ DOMAIN-SUFFIX,mymoe.moe,PROXY
 DOMAIN-SUFFIX,myparagliding.com,PROXY
 DOMAIN-SUFFIX,mypopescu.com,PROXY
 DOMAIN-SUFFIX,myspacecdn.com,PROXY
+DOMAIN-SUFFIX,note.com,PROXY
 DOMAIN-SUFFIX,nthlink.com,PROXY
 DOMAIN-SUFFIX,neodb.social,PROXY
 DOMAIN-SUFFIX,nfscofficial.com,PROXY
