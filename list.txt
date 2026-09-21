@@ -2965,6 +2965,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||note.com
 ||nthlink.com
 ||neodb.social 
 ||nfscofficial.com
