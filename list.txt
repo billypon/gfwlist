@@ -2210,6 +2210,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||c.go-mpulse.net
 ||getmonero.org
 ||gate.com
 ||guangming.com.my
@@ -3340,6 +3341,7 @@ iipdigital.usembassy.gov
 ||pximg.net
 ||python.com.tw
 !--------------------QQ-------------------------
+||qobuz.com
 ||quakemachinex.com
 |http://qmp4.com
 ||qianmo.tw
