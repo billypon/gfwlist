@@ -3954,6 +3954,7 @@ payload:
   - '+.uyghurstudies.org'
   - '+.uyghurtribunal.com'
   - 'uymaarip.com'
+  - '+.vava8.com'
   - '+.v.recipes'
   - '+.vox.com'
   - '+.vimeocdn.com'

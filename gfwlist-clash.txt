@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: LvFB8Ohz555o/arEu9LPIQ
+# Checksum: bGvtc1JiNPJJ9jPTKGQlfA
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Sat, 26 Sep 2026 04:10:30 +0000
+# Last Modified: Sun, 27 Sep 2026 04:25:34 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4017,6 +4017,7 @@ DOMAIN-SUFFIX,uyghurpen.org,PROXY
 DOMAIN-SUFFIX,uyghurstudies.org,PROXY
 DOMAIN-SUFFIX,uyghurtribunal.com,PROXY
 DOMAIN,uymaarip.com,PROXY
+DOMAIN-SUFFIX,vava8.com,PROXY
 DOMAIN-SUFFIX,v.recipes,PROXY
 DOMAIN-SUFFIX,vox.com,PROXY
 DOMAIN-SUFFIX,vimeocdn.com,PROXY
