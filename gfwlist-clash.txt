@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: bGvtc1JiNPJJ9jPTKGQlfA
+# Checksum: xj+08gjV6P0Fw9kitkEr5Q
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Sun, 27 Sep 2026 04:25:34 +0000
+# Last Modified: Thu, 01 Oct 2026 04:55:11 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2023,6 +2023,7 @@ DOMAIN-SUFFIX,exploader.net,PROXY
 DOMAIN-SUFFIX,expressvpn.com,PROXY
 DOMAIN-SUFFIX,eyevio.jp,PROXY
 DOMAIN-SUFFIX,eyny.com,PROXY
+DOMAIN-SUFFIX,fuyin116.com,PROXY
 DOMAIN-SUFFIX,freedom.gov,PROXY
 DOMAIN-SUFFIX,hyperbeam.com,PROXY
 DOMAIN-SUFFIX,flowgpt.com,PROXY
@@ -2757,6 +2758,7 @@ DOMAIN,lyfhk.net,PROXY
 DOMAIN-SUFFIX,lzjscript.com,PROXY
 DOMAIN-SUFFIX,lzmtnews.org,PROXY
 DOMAIN-SUFFIX,leonardo.ai,PROXY
+DOMAIN-SUFFIX,muse.ai,PROXY
 DOMAIN-SUFFIX,historylines.net,PROXY
 DOMAIN-SUFFIX,kiwix.org,PROXY
 DOMAIN-SUFFIX,mceindex.com,PROXY
@@ -4096,6 +4098,7 @@ DOMAIN-SUFFIX,vporn.com,PROXY
 DOMAIN-SUFFIX,vrchat.com,PROXY
 DOMAIN-SUFFIX,vrporn.com,PROXY
 DOMAIN-SUFFIX,vtunnel.com,PROXY
+DOMAIN-SUFFIX,wallhaven.cc,PROXY
 DOMAIN-SUFFIX,wtfpass.com,PROXY
 DOMAIN-SUFFIX,write.as,PROXY
 DOMAIN-SUFFIX,windy.com,PROXY
