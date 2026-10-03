@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: xj+08gjV6P0Fw9kitkEr5Q
+# Checksum: 5wyiPCEbkkFVkOH98hRYaw
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Thu, 01 Oct 2026 04:55:11 +0000
+# Last Modified: Sat, 03 Oct 2026 04:27:57 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3409,6 +3409,7 @@ DOMAIN-SUFFIX,rutracker.org,PROXY
 DOMAIN,rxhj.net,PROXY
 DOMAIN-SUFFIX,raphael.app,PROXY
 DOMAIN-SUFFIX,rule34.us,PROXY
+DOMAIN-SUFFIX,sing-box.sagernet.org,PROXY
 DOMAIN-SUFFIX,supjav.com,PROXY
 DOMAIN-SUFFIX,api.shuaiapi.com,PROXY
 DOMAIN-SUFFIX,sb.sb,PROXY
