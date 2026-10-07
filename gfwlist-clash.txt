@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: 5wyiPCEbkkFVkOH98hRYaw
+# Checksum: hHDi14zUFvcSR9n3SpSpFg
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Sat, 03 Oct 2026 04:27:57 +0000
+# Last Modified: Wed, 07 Oct 2026 05:02:25 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1110,6 +1110,22 @@ DOMAIN-SUFFIX,twitter.com,PROXY
 DOMAIN-SUFFIX,twitter.jp,PROXY
 DOMAIN-SUFFIX,vine.co,PROXY
 DOMAIN-SUFFIX,x.com,PROXY
+DOMAIN-SUFFIX,khc.edu.tw,PROXY
+DOMAIN-SUFFIX,vscc.org.tw,PROXY
+DOMAIN-SUFFIX,poland.tw,PROXY
+DOMAIN-SUFFIX,tybio.com.tw,PROXY
+DOMAIN-SUFFIX,twfhcsec.com.tw,PROXY
+DOMAIN-SUFFIX,ttl.com.tw,PROXY
+DOMAIN-SUFFIX,tfd.org.tw,PROXY
+DOMAIN-SUFFIX,nstc.org.tw,PROXY
+DOMAIN-SUFFIX,mirdc.org.tw,PROXY
+DOMAIN-SUFFIX,landbank.com.tw,PROXY
+DOMAIN-SUFFIX,indsr.org.tw,PROXY
+DOMAIN-SUFFIX,icdf.org.tw,PROXY
+DOMAIN-SUFFIX,eximbank.com.tw,PROXY
+DOMAIN-SUFFIX,csc.com.tw,PROXY
+DOMAIN-SUFFIX,cpc.com.tw,PROXY
+DOMAIN-SUFFIX,aidc.com.tw,PROXY
 DOMAIN-SUFFIX,taiwanembassy.org,PROXY
 DOMAIN-SUFFIX,roc-taiwan.org,PROXY
 DOMAIN-SUFFIX,twgov.tw,PROXY
@@ -1119,6 +1135,7 @@ DOMAIN-SUFFIX,li.taipei,PROXY
 DOMAIN-SUFFIX,teco-hk.org,PROXY
 DOMAIN-SUFFIX,teco-mo.org,PROXY
 DOMAIN-SUFFIX,kinmen.org.tw,PROXY
+DOMAIN-SUFFIX,ned.org,PROXY
 DOMAIN-SUFFIX,spaceforce.mil,PROXY
 DOMAIN-SUFFIX,airuniversity.af.edu,PROXY
 DOMAIN-SUFFIX,supremecourt.gov,PROXY
@@ -1411,6 +1428,8 @@ DOMAIN-SUFFIX,axios.com,PROXY
 DOMAIN-SUFFIX,axureformac.com,PROXY
 DOMAIN-SUFFIX,azirevpn.com,PROXY
 DOMAIN-WILDCARD,boxun*.azurewebsites.net,PROXY
+DOMAIN-SUFFIX,boylove.cc,PROXY
+DOMAIN-SUFFIX,blue-plus.net,PROXY
 DOMAIN-SUFFIX,briarproject.org,PROXY
 DOMAIN-SUFFIX,bilinovel.com,PROXY
 DOMAIN-SUFFIX,boomplay.com,PROXY
@@ -1577,6 +1596,7 @@ DOMAIN-SUFFIX,buzzsprout.com,PROXY
 DOMAIN-SUFFIX,bvpn.com,PROXY
 DOMAIN-SUFFIX,bwh1.net,PROXY
 DOMAIN-SUFFIX,bypasscensorship.org,PROXY
+DOMAIN-SUFFIX,cangku.moe,PROXY
 DOMAIN-SUFFIX,chineseposters.net,PROXY
 DOMAIN-SUFFIX,ctee.com.tw,PROXY
 DOMAIN-SUFFIX,chatgpt.site,PROXY
@@ -1819,6 +1839,7 @@ DOMAIN-SUFFIX,cynscribe.com,PROXY
 DOMAIN-SUFFIX,ifan.cz.cc,PROXY
 DOMAIN-SUFFIX,mike.cz.cc,PROXY
 DOMAIN-SUFFIX,nic.cz.cc,PROXY
+DOMAIN-SUFFIX,dh.net,PROXY
 DOMAIN-SUFFIX,divdyn.com,PROXY
 DOMAIN-SUFFIX,data18.com,PROXY
 DOMAIN-SUFFIX,dt18.com,PROXY
@@ -2314,6 +2335,9 @@ DOMAIN-SUFFIX,guishan.org,PROXY
 DOMAIN-SUFFIX,gumroad.com,PROXY
 DOMAIN-SUFFIX,gunsamerica.com,PROXY
 DOMAIN,gvlib.com,PROXY
+DOMAIN-SUFFIX,hentaiclub.net,PROXY
+DOMAIN-SUFFIX,hanimeone.me,PROXY
+DOMAIN-SUFFIX,hanime1.com,PROXY
 DOMAIN-SUFFIX,hentai.tv,PROXY
 DOMAIN-SUFFIX,hkej.com,PROXY
 DOMAIN-SUFFIX,hkong.hk,PROXY
@@ -2446,6 +2470,7 @@ DOMAIN-SUFFIX,hxwk.org,PROXY
 DOMAIN-SUFFIX,hyperrate.com,PROXY
 DOMAIN-SUFFIX,hypothes.is,PROXY
 DOMAIN-SUFFIX,ebook.hyread.com.tw,PROXY
+DOMAIN-SUFFIX,ipac.global,PROXY
 DOMAIN-SUFFIX,infosec.exchange,PROXY
 DOMAIN-SUFFIX,investing.com,PROXY
 DOMAIN-SUFFIX,idcflare.com,PROXY
@@ -2568,6 +2593,9 @@ DOMAIN-SUFFIX,iwara.tv,PROXY
 DOMAIN-SUFFIX,ixquick.com,PROXY
 DOMAIN-SUFFIX,iyouport.com,PROXY
 DOMAIN-SUFFIX,iyouport.org,PROXY
+DOMAIN-SUFFIX,javchu.com,PROXY
+DOMAIN-SUFFIX,jkforum.net,PROXY
+DOMAIN-SUFFIX,javfree.me,PROXY
 DOMAIN-SUFFIX,jhelab.org,PROXY
 DOMAIN-SUFFIX,justmysockscn.com,PROXY
 DOMAIN-SUFFIX,justmysocks.net,PROXY
@@ -2758,6 +2786,8 @@ DOMAIN,lyfhk.net,PROXY
 DOMAIN-SUFFIX,lzjscript.com,PROXY
 DOMAIN-SUFFIX,lzmtnews.org,PROXY
 DOMAIN-SUFFIX,leonardo.ai,PROXY
+DOMAIN-SUFFIX,matichon.co.th,PROXY
+DOMAIN-SUFFIX,moeli-desu.com,PROXY
 DOMAIN-SUFFIX,muse.ai,PROXY
 DOMAIN-SUFFIX,historylines.net,PROXY
 DOMAIN-SUFFIX,kiwix.org,PROXY
@@ -2776,6 +2806,8 @@ DOMAIN-SUFFIX,mji.rip,PROXY
 DOMAIN-SUFFIX,mjj.rip,PROXY
 DOMAIN-SUFFIX,mcusercontent.com,PROXY
 DOMAIN-SUFFIX,metamask.io,PROXY
+DOMAIN-SUFFIX,missav.live,PROXY
+DOMAIN-SUFFIX,missav.ai,PROXY
 DOMAIN-SUFFIX,missav.ws,PROXY
 DOMAIN-SUFFIX,news.mt.co.kr,PROXY
 DOMAIN-SUFFIX,musixmatch.com,PROXY
@@ -2924,6 +2956,7 @@ DOMAIN-SUFFIX,mymoe.moe,PROXY
 DOMAIN-SUFFIX,myparagliding.com,PROXY
 DOMAIN-SUFFIX,mypopescu.com,PROXY
 DOMAIN-SUFFIX,myspacecdn.com,PROXY
+DOMAIN-SUFFIX,nationthailand.com,PROXY
 DOMAIN-SUFFIX,note.com,PROXY
 DOMAIN-SUFFIX,nthlink.com,PROXY
 DOMAIN-SUFFIX,neodb.social,PROXY
@@ -3294,6 +3327,7 @@ DOMAIN-SUFFIX,purevpn.com,PROXY
 DOMAIN-SUFFIX,pursuestar.com,PROXY
 DOMAIN-SUFFIX,pximg.net,PROXY
 DOMAIN-SUFFIX,python.com.tw,PROXY
+DOMAIN-SUFFIX,qingse.one,PROXY
 DOMAIN-SUFFIX,qobuz.com,PROXY
 DOMAIN-SUFFIX,quakemachinex.com,PROXY
 DOMAIN,qmp4.com,PROXY
@@ -3313,6 +3347,7 @@ DOMAIN-SUFFIX,qstatus.com,PROXY
 DOMAIN-SUFFIX,qtrac.eu,PROXY
 DOMAIN-SUFFIX,quitccp.org,PROXY
 DOMAIN,quran.com,PROXY
+DOMAIN-SUFFIX,rocmgov.org,PROXY
 DOMAIN-SUFFIX,roushuwo.com,PROXY
 DOMAIN-SUFFIX,esim.redteago.com,PROXY
 DOMAIN-SUFFIX,restofworld.org,PROXY
@@ -4241,6 +4276,7 @@ DOMAIN-SUFFIX,wufi.org.tw,PROXY
 DOMAIN-SUFFIX,wujieliulan.com,PROXY
 DOMAIN-SUFFIX,wuw.red,PROXY
 DOMAIN-SUFFIX,wwitv.com,PROXY
+DOMAIN-SUFFIX,xx.net,PROXY
 DOMAIN-SUFFIX,x86.fr,PROXY
 DOMAIN-SUFFIX,xuan.com.my,PROXY
 DOMAIN-SUFFIX,xdaforums.com,PROXY
