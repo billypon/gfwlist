@@ -1,9 +1,9 @@
 # [AutoProxy 0.2.9]
-# Checksum: hHDi14zUFvcSR9n3SpSpFg
+# Checksum: WhZOq8sBvGER0gI0CdF1xg
 # Expires: 6h
 # Title: GFWList4LL
 # GFWList with EVERYTHING included
-# Last Modified: Wed, 07 Oct 2026 05:02:25 +0000
+# Last Modified: Sat, 17 Oct 2026 03:35:30 +0000
 #
 # HomePage: https://github.com/gfwlist/gfwlist
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -670,6 +670,8 @@ DOMAIN-SUFFIX,one.one.one.one,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
 DOMAIN-SUFFIX,dns.cloudflare.com,PROXY
 DOMAIN-SUFFIX,dynu.com,PROXY
+DOMAIN-SUFFIX,meta.ai,PROXY
+DOMAIN-SUFFIX,metaaivm.com,PROXY
 DOMAIN-SUFFIX,accountkit.com,PROXY
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
 DOMAIN-SUFFIX,f8.com,PROXY
@@ -1180,6 +1182,7 @@ DOMAIN-SUFFIX,search.yahoo.co.jp,PROXY
 DOMAIN-SUFFIX,yahoo.com.tw,PROXY
 DOMAIN-SUFFIX,yahoo.com.hk,PROXY
 DOMAIN-SUFFIX,yahoo.com,PROXY
+DOMAIN-SUFFIX,7x24hrs.com,PROXY
 DOMAIN-SUFFIX,123av.me,PROXY
 DOMAIN-SUFFIX,123av.com,PROXY
 DOMAIN-SUFFIX,18comic.vip,PROXY
